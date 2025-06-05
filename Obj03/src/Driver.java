@@ -32,5 +32,8 @@ public class Driver {
 		System.out.println("\n２人の売上合計："
 							+ (hayami.salesAmt + kawai.salesAmt)
 							+ "円");
+		System.out.println("\n２人の売上合計："
+				+ (hayami.salesAmt + kawai.salesAmt)
+				+ "円");
 	}
 }
